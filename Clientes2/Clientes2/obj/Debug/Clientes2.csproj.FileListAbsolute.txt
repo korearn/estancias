@@ -1,0 +1,10 @@
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\bin\Debug\Clientes2.exe
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\bin\Debug\Clientes2.pdb
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\obj\Debug\Clientes2.csprojAssemblyReference.cache
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\obj\Debug\Clientes2.PrincipalView.resources
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\obj\Debug\Clientes2.Properties.Resources.resources
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\obj\Debug\Clientes2.csproj.GenerateResource.cache
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\obj\Debug\Clientes2.csproj.CoreCompileInputs.cache
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\obj\Debug\Clientes2.exe
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\obj\Debug\Clientes2.pdb
+C:\Users\alortiz\source\repos\Clientes2\Clientes2\obj\Debug\Clientes2.ClienteRegistroView.resources
